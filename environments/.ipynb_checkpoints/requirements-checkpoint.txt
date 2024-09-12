@@ -1,0 +1,17 @@
+anndata==0.10.8
+matplotlib-base==3.9.2
+numpy==1.26.4
+pandas==2.2.2
+pillow==10.4.0
+scanpy==1.10.2
+scikit-learn==1.5.1
+scipy==1.14.1
+seaborn==0.13.2
+tqdm==4.66.5
+umap-learn==0.5.6
+xarray==2024.7.0
+PyYAML==0.2.5
+scikit-image==0.24.0
+tifffile==2024.8.24
+zarr==2.18.2
+spatialproteomics==0.5.4
