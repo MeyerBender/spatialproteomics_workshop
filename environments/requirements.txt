@@ -16,3 +16,4 @@ tifffile==2024.8.24
 zarr==2.18.2
 spatialproteomics==0.5.5
 jupyter==1.1.1
+squidpy==1.2.2
