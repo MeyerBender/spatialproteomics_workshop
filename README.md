@@ -3,7 +3,7 @@
 You can follow this workshop either on `Google Colab`, or run it locally using `conda` and `jupyter lab`.
 
 ## Instructions for Colab`
-Simply navigate to the notebooks and click on the `Open in Colab` button on top.
+Simply navigate to the folder called `notebooks` and click on the `Open in Colab` button on top.
 
 ## Instructions for conda
 To follow this workshop on your local machine, you first need to download the material by cloning the git repository (`git clone https://github.com/MeyerBender/spatialproteomics_workshop.git`). 
