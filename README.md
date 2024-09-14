@@ -4,6 +4,7 @@ You can follow this workshop either on `Google Colab`, or run it locally using `
 
 ## Instructions for Colab`
 Simply navigate to the folder called `notebooks` and click on the `Open in Colab` button on top.
+For the first notebook, it is encouraged to change the runtime to a GPU-based one, since we will run an exemplary cell segmentation, which benefits from running on a GPU.
 
 ## Instructions for conda
 To follow this workshop on your local machine, you first need to download the material by cloning the git repository (`git clone https://github.com/MeyerBender/spatialproteomics_workshop.git`). 
