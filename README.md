@@ -2,7 +2,7 @@
 
 You can follow this workshop either on `Google Colab`, or run it locally using `conda` and `jupyter lab`.
 
-## Instructions for Colab`
+## Instructions for Colab
 Simply navigate to the folder called `notebooks` and click on the `Open in Colab` button on top.
 For the first notebook, it is encouraged to change the runtime to a GPU-based one, since we will run an exemplary cell segmentation, which benefits from running on a GPU.
 
