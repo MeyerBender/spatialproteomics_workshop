@@ -16,4 +16,4 @@ Afterwards, you need to set up a virtual environment like this:
 Once you have activated the virtual environment, you can run `jupyter lab`. Open the notebooks labeled with `task` in the `notebooks` folder, and follow the instructions there. In case you are stuck, you can always refer to the solution, which is provided in the same folder.
 
 ## Getting help
-This tutorial is based on the `spatialproteomics` documentation. You can always refer to it [here](https://sagar87.github.io/spatialproteomics/index.html) or have a look at the [GitHub repository](https://github.com/sagar87/spatialproteomics).
+This tutorial is based on the `spatialproteomics` documentation. You can always refer to it [here](https://sagar87.github.io/spatialproteomics/notebooks/ExampleWorkflow.html#) or have a look at the [GitHub repository](https://github.com/sagar87/spatialproteomics).
