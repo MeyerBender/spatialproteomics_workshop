@@ -24,4 +24,4 @@ dependencies:
       - scikit-image==0.25
       - tifffile==2024.8.24
       - zarr==2.18.2
-      - spatialproteomics[cellpose]==0.7
+      - spatialproteomics[cellpose]==0.7.1

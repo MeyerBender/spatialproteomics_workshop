@@ -13,6 +13,6 @@ xarray==2023.12.0
 scikit-image==0.25
 tifffile==2024.8.24
 zarr==2.18.2
-spatialproteomics[cellpose]==0.7
+spatialproteomics[cellpose]==0.7.1
 jupyter==1.1.1
 squidpy==1.2.2
